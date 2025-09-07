@@ -1,18 +1,3 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
-body {
-  font-family: 'Libre Baskerville', serif;
-}
-img {
-  animation: pulse 3s infinite ease-in-out;
-}
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-  100% { transform: scale(1); }
-}
-</style>
-
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A Passionate UI Designer & Flutter Developer from Pakistan.</h3>
 
