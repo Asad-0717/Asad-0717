@@ -1,3 +1,18 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+body {
+  font-family: 'Libre Baskerville', serif;
+}
+img {
+  animation: pulse 3s infinite ease-in-out;
+}
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+</style>
+
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A Passionate UI Designer & Flutter Developer from Pakistan.</h3>
 
@@ -13,15 +28,44 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/asadullah-ramzan-021733310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadullah-ramzan" height="30" width="40" /></a>
-<a href="https://www.behance.net/asadullahramzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asadullahramzan" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/asadullah-ramzan-021733310/" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asadullah-ramzan" height="50" width="50" /></a>
+<a href="https://www.behance.net/asadullahramzan" target="blank" style="margin-right: 10px;"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="asadullahramzan" height="50" width="50" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="50"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="photoshop" width="50" height="50"/> </a> 
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=dracula&cache_seconds=1800&locale=en&layout=compact" alt="asad-0717" /></p>
+<h3 >Most Used Languages</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=dracula&cache_seconds=1800&locale=en&layout=compact&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=default&cache_seconds=1800&locale=en&layout=compact&hide_border=true" />
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=dracula&cache_seconds=1800&locale=en&layout=compact&hide_border=true" alt="asad-0717" />
+</picture>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en" alt="asad-0717" /></p>
+<h3>GitHub Stats</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=default&locale=en&hide_border=true" />
+  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
+</picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dark" alt="asad-0717" /></p>
+<h3>Contributions</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dracula&locale=en&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=default&hide_border=true" />
+  <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dark&hide_border=true" alt="asad-0717" />
+</picture>
+
+<h3>Contribution Graph</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" style="width: 100%;" src="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
+</picture>
