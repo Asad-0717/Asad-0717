@@ -28,29 +28,13 @@
 </p>
 
 <h3 >Most Used Languages</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=dracula&cache_seconds=1800&locale=en&layout=compact&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=default&cache_seconds=1800&locale=en&layout=compact&hide_border=true" />
-  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=dracula&cache_seconds=1800&locale=en&layout=compact&hide_border=true" alt="asad-0717" />
-</picture>
+<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad-0717&show_icons=true&theme=dracula&cache_seconds=1800&locale=en&layout=compact&hide_border=true" alt="asad-0717" />
 
 <h3>GitHub Stats</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=default&locale=en&hide_border=true" />
-  <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
-</picture>
+<img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
 
 <h3>Contributions</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dracula&locale=en&hide_border=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=default&hide_border=true" />
-  <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dark&hide_border=true" alt="asad-0717" />
-</picture>
+<img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
 
 <h3>Contribution Graph</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" style="width: 100%;" src="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
-</picture>
+<img alt="github contribution grid snake animation" style="width: 100%;" src="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
