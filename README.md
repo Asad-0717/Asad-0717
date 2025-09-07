@@ -37,4 +37,8 @@
 <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
 
 <h3>Contribution Graph</h3>
-<img alt="github contribution grid snake animation" style="width: 100%;" src="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution grid snake animation" style="width: 100%;" src="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
+</picture>
