@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A Passionate UI Designer & Flutter Developer from Pakistan.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=asad-0717&label=Profile%20views&color=0489dc&style=flat-square" alt="asad-0717" width="150" height="30" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=asad-0717&label=Profile%20views&color=0489dc&style=flat-square" alt="asad-0717" width="130" height="30" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Dart, Kotlin.**
 
