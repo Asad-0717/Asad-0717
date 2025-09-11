@@ -49,7 +49,7 @@
 </p>
 
 <h3>GitHub Stats</h3>
-<img style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
+<img src="https://github-readme-stats.vercel.app/api?username=asad-0717&show_icons=true&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
 
 <h3>Contributions</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=asad-0717&theme=dracula&locale=en&hide_border=true" alt="asad-0717" />
