@@ -2,11 +2,11 @@
 <h3 align="center">A Passionate <strong>UI Designer & Flutter Developer</strong> from Pakistan.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asad-0717&label=Profile%20Views&color=0489dc&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Asad-0717?label=Followers&style=social&logo=github" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Asad-0717&label=Profile%20Views&color=0489dc&style=flat-square" alt="Profile Views" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Asad-0717?label=Followers&style=social&logo=github" alt="Followers" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/Asad-0717?label=Stars&style=social&logo=github" alt="Stars" />
 </p>
-<br><br>
+
 <div align="center">
   🌱 Currently learning <strong>Flutter, Dart, Kotlin</strong><br><br>
   💬 Ask me about <strong>UI/UX Design, Flutter, Firebase</strong><br><br>
