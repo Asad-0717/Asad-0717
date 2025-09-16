@@ -6,14 +6,12 @@
   <img src="https://img.shields.io/github/followers/Asad-0717?label=Followers&style=social&logo=github" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Asad-0717?label=Stars&style=social&logo=github" alt="Stars" />
 </p>
-
+<br><br>
 <div align="center">
-  <p style="font-size: 1.1em; color: #666;">
-    🌱 Currently learning <strong>Flutter, Dart, Kotlin</strong><br>
-    💬 Ask me about <strong>UI/UX Design, Flutter, Firebase</strong><br>
-    📫 Reach me at: <a href="mailto:asadullahramzan0707@gmail.com">asadullahramzan0707@gmail.com</a><br>
-    ⚡ Fun fact: <em>I think I'm a boring person 😅</em>
-  </p>
+  🌱 Currently learning <strong>Flutter, Dart, Kotlin</strong><br><br>
+  💬 Ask me about <strong>UI/UX Design, Flutter, Firebase</strong><br><br>
+  📫 Reach me at: <a href="mailto:asadullahramzan0707@gmail.com">asadullahramzan0707@gmail.com</a><br><br>
+  ⚡ Fun fact: <em>I think I'm a boring person 😅</em>
 </div>
 
 <h3 align="left">Connect With Me</h3>
@@ -69,11 +67,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Grid Snake Animation" style="width: 100%;" src="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
 </picture>
-
-<h3 align="left">📌 Tech Stack</h3>
-<p style="text-align: left; font-family: monospace; background: #1e1e1e; padding: 10px; border-radius: 5px; color: #fff;">
-  Flutter • Dart • Kotlin • Figma • Firebase • Supabase • Git • Photoshop
-</p>
 
 <h3 align="left">💬 Let's Connect!</h3>
 <p style="text-align: left; color: #666;">
