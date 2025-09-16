@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/github/stars/Asad-0717?label=Stars&style=social&logo=github" alt="Stars" />
 </p>
 <br><br>
-<div align="left">
+<div align="center">
   🌱 Currently learning <strong>Flutter, Dart, Kotlin</strong><br><br>
   💬 Ask me about <strong>UI/UX Design, Flutter, Firebase</strong><br><br>
   📫 Reach me at: <a href="mailto:asadullahramzan0707@gmail.com">asadullahramzan0707@gmail.com</a><br><br>
