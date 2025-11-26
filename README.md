@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="My LinkedIn Banner" src="https://github.com/user-attachments/assets/b0de0b05-1338-4b91-9cdc-ef62bc721683" />
 <h1 align="center">Hi 👋, I'm Asad</h1>
 <h3 align="center">A Passionate <strong>UI Designer & Flutter Developer</strong> from Pakistan.</h3>
 
