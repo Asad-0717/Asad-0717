@@ -35,7 +35,7 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <a href="https://kotlinlang.org" target="_blank" title="Kotlin - Modern, concise, and safe programming language for Android and beyond">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40" />
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" alt="Kotlin" width="40" height="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.figma.com" target="_blank" title="Figma - Collaborative interface design tool">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
