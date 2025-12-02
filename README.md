@@ -17,7 +17,7 @@
   ⚡ Fun fact: <em>I enjoy learning more than showing off what I know 😄<em> 
 </div>
 
-<h3 align="left">🤝 Connect With Me</h3>
+<h3 align="left">🤝Connect With Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/asadullah-ramzan-021733310/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" 
@@ -41,7 +41,7 @@
 </p>
 
 
-<h3 align="left">⛏️ Languages & Tools</h3>
+<h3 align="left">⛏️Languages & Tools</h3>
 <p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px;">
   <a href="https://dart.dev" target="_blank" title="Dart - Google's client-optimized language for fast apps on any platform">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
@@ -69,22 +69,22 @@
   </a>&nbsp;&nbsp;
 </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="left">📊GitHub Stats</h3>
 <img src="https://asad-github-stats-card.vercel.app/api?username=Asad-0717&theme=dracula&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub Stats" />
 
-<h3 align="left">🔥 Contribution Streak</h3>
+<h3 align="left">🔥Contribution Streak</h3>
 <a href="https://github.com/Asad-0717" target="_blank">
   <img src="https://github-readme-streak-stats-five-pink.vercel.app/?user=Asad-0717&theme=dracula&hide_border=true" alt="Contribution Streak" />
 </a>
 
-<h3 align="left">📅 Contribution Graph</h3>
+<h3 align="left">📅Contribution Graph</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Grid Snake Animation" style="width: 100%;" src="https://raw.githubusercontent.com/Asad-0717/Asad-0717/main/dist/github-contribution-grid-snake.svg" />
 </picture>
 
-<h3 align="left">💬 Let's Connect!</h3>
+<h3 align="left">💬Let's Connect!</h3>
 <p style="text-align: center;">
   I'm always open to new opportunities, collaborations, or just a friendly chat about tech 😉!
 </p>
