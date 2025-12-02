@@ -1,6 +1,6 @@
 <!-- LinkedIn banner -->
 <img width="1584" height="396" alt="My LinkedIn Banner" src="https://github.com/user-attachments/assets/7d0ce722-8478-4928-b656-259cb0349d70" />
-<h1 align="center">Hi 👋, I'm Asadullah Ramzan, (Asad)</h1>
+<h1 align="center">Hi 👋, I'm Asadullah (Asad) Ramzan</h1>
 <h3 align="center">A self-taught passionate Flutter developer from Pakistan 🇵🇰.</h3>
 
 <p align="center">
@@ -10,23 +10,38 @@
 </p>
 
 <div align="center">
+  🎨 Interested in UI/UX & turning wireframes into smooth mobile experiences<br><br>
   🌱 Currently learning <strong>Flutter, Dart,</strong><br><br>
   💬 Ask me about <strong>Dart, Flutter</strong><br><br>
-  📫 Reach me at: <a href="mailto:asadullahramzan0707@gmail.com">asadullahramzan0707@gmail.com</a><br><br>
-  ⚡ Fun fact: <em>I think I'm a boring person 😅</em>
+  🚀 On a journey to become a senior Flutter engineer<br><br>
+  ⚡ Fun fact: <em>I enjoy learning more than showing off what I know 😄<em> 
 </div>
 
-<h3 align="left">Connect With Me</h3>
+<h3 align="left">🤝 Connect With Me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/asadullah-ramzan-021733310/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" title="LinkedIn" />
-  </a>&nbsp;
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png" 
+         alt="LinkedIn" height="40" width="40" title="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  
   <a href="https://www.behance.net/asadullahramzan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="40" width="50" title="Behance Portfolio" />
-</a>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/behance-round-color-icon.png" 
+         alt="Behance" height="40" width="40" title="Behance Portfolio" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="mailto:asadullahramzan0707@gmail.com" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" 
+         alt="Gmail" height="40" width="40" title="Email Me" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://wa.me/923191056108" target="_blank">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/whatsapp-business-icon.png" 
+       alt="WhatsApp" height="37" width="37" title="Chat on WhatsApp for Business" />
+</a>&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages & Tools</h3>
+
+<h3 align="left">⛏️ Languages & Tools</h3>
 <p style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin: 20px;">
   <a href="https://dart.dev" target="_blank" title="Dart - Google's client-optimized language for fast apps on any platform">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
