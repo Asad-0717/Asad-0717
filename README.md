@@ -11,8 +11,8 @@
 
 <div align="center">
   🎨 Interested in UI/UX & turning wireframes into smooth mobile experiences<br><br>
-  🌱 Currently learning <strong>Flutter, Dart,</strong><br><br>
-  💬 Ask me about <strong>Dart, Flutter</strong><br><br>
+  🌱 Currently learning <strong>Dart, Flutter, TypeScript</strong><br><br>
+  💬 Ask me about <strong>Dart, Flutter, TypeScript</strong><br><br>
   🚀 On a journey to become a senior Flutter engineer<br><br>
   ⚡ Fun fact: <em>I enjoy learning more than showing off what I know 😄</em>
 </div>
