@@ -49,9 +49,9 @@
   <a href="https://flutter.dev" target="_blank" title="Flutter - UI toolkit for building natively compiled applications for mobile, web, and desktop">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" title="Kotlin - Modern, concise, and safe programming language for Android and beyond">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" alt="Kotlin" width="40" height="40" />
-  </a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank" title="TypeScript - A typed superset of JavaScript that compiles to plain JavaScript">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.png" alt="TypeScript" width="40" height="40" />
+</a> &nbsp; &nbsp;
   <a href="https://www.figma.com" target="_blank" title="Figma - Collaborative interface design tool">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>&nbsp;&nbsp;
