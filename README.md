@@ -1,5 +1,5 @@
 <!-- LinkedIn banner -->
-<img width="1584" height="396" alt="My LinkedIn Banner" src="https://github.com/user-attachments/assets/566d28ec-0a3f-41a9-816c-3c29112a5c5c" />
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/7d66262f-40ed-4974-93c8-b6591b5e2bbd" />
 <h1 align="center">Hi 👋, I'm Asadullah (Asad) Ramzan</h1>
 <h3 align="center">A self-taught passionate Flutter developer from Pakistan 🇵🇰.</h3>
 
@@ -48,9 +48,6 @@
   <a href="https://www.typescriptlang.org" target="_blank" rel="noopener noreferrer" title="TypeScript - A typed superset of JavaScript that compiles to plain JavaScript">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/typescript-programming-language-icon.png" alt="TypeScript" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noopener noreferrer" title="Kotlin - A modern, concise, and safe programming language for JVM, Android, and multiplatform development.">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/kotlin-programming-language-icon.png" alt="Kotlin" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://firebase.google.com" target="_blank" rel="noopener noreferrer" title="Firebase - Google’s app development platform for backend services">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -59,9 +56,6 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://supabase.com" target="_blank" rel="noopener noreferrer" title="Supabase - Open source Firebase alternative with PostgreSQL">
     <img src="https://cdn.brandfetch.io/idsSceG8fK/w/436/h/449/theme/dark/symbol.png?c=1dxbfHSJFAPEGdCLU4o5B" alt="Supabase" width="40" height="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer" title="Adobe Photoshop - Industry-standard digital image editing software">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop" width="40" height="40" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.figma.com" target="_blank" rel="noopener noreferrer" title="Figma - Collaborative interface design tool">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
