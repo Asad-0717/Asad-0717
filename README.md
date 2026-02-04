@@ -1,5 +1,5 @@
 <!-- LinkedIn banner -->
-<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/7d66262f-40ed-4974-93c8-b6591b5e2bbd" />
+<img width="1584" height="396" alt="LinkedIn Banner" src="https://github.com/user-attachments/assets/17230eb5-cbd8-4a32-802d-47f92a3bb3f7" />
 <h1 align="center">Hi 👋, I'm Asadullah (Asad) Ramzan</h1>
 <h3 align="center">A self-taught passionate Flutter developer from Pakistan 🇵🇰.</h3>
 
